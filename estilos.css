@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.title{
+    background-color: #2283c9;
+    text-align: center;
+    padding: 9px 0;
+}
+
+    .title h1 {
+        color: #ffffff;
+        text-align: center;
+    }
+
+    .title h2{
+        color: #ffffff;
+        text-align: center;
+    }
+
+.section {
+    text-align: center;
+}
+    .one img{
+        border-radius: 50%
+        
+    }
+    .p1{
+        font-size: 400%;
+        font-weight: bold;
+        color: #2283c9;
+    }
+
+    .one p{
+        margin: auto;
+        width: 750px;
+        
+    }
+
+    .two{
+        margin: auto;
+        width: 750px;
+        height: 160px;
+        
+    }
+    .two1{
+        float: left;
+        height: 100%;
+        width: 22%;
+       /* border:1px solid black;*/ 
+    }
+
+    .two2{
+        float: left;
+        height: 100%;
+        width: 77%;
+        /*border:1px solid black;*/ 
+
+    }
+    .two img{
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+    }
+    
+    .three{
+        margin: auto;
+        width: 750px;
+        height: 160px;
+        
+    }
+    .three1{
+        float: left;
+        height: 100%;
+        width: 22%;
+       /* border:1px solid black;*/ 
+    }
+
+    .three2{
+        float: left;
+        height: 100%;
+        width: 77%;
+        /*border:1px solid black;*/ 
+
+    }
+    .three img{
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+    }
+.for{
+    margin: auto;
+    width: 750px;
+    height: 150px;
+}
+    .for img{
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+    }
